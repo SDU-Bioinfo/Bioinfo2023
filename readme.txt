@@ -47,5 +47,5 @@ protein. Your program should generate output with the same format.
 
 #### submission requirements ####
 
-The final program should be submitted as a Docker (intructions to be added).
+The final program should be submitted as a Docker (refer to docker directory).
 
