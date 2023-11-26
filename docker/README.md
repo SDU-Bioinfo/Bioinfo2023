@@ -1,5 +1,7 @@
 # Docker提交文档
 
+<br/>
+<br/>
 
 ## 期末项目docker提交说明
 
@@ -10,6 +12,11 @@
 ```bash
 docker run --ipc=host --gpus all  --rm -v `pwd`:/mount sub1 bash run.sh /mount/query.fasta /mount/output.out
 ```
+
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 
