@@ -5,11 +5,11 @@
 
 ## 提交指南
 
-### 用户选择
+### 选择测评用户
 - 每个队伍需指定一名用户作为提交用户。
-- 评审团队将通过该用户根目录下的 `bioinfo/project/submission` 目录访问并评估您的项目。
+- 我们会进入该用户的 `bioinfo/project/submission` 目录用于评估您团队的最终成绩。
 
-### 提交命令
+### 我们如何测试(:fire:提交后助教运行，大家不需要执行:fire:)
 - 在 `~/bioinfo/project/submission` 目录下，执行命令 `bash run.sh $infasta $output_path`。
 - `$infasta` 和 `$output_path` 为输入的FASTA 文件路径以及输出文件路径
 
@@ -28,7 +28,7 @@
 - 期末项目截止后，不再接受任何提交。
 
 ## 联系方式
-- 如遇任何问题或疑问，请及时联系课程助教
+- 如遇任何问题或疑问，可以发邮件到 xw.xztq@gmail.com 联系课程助教
 
 祝大家项目顺利！
 
